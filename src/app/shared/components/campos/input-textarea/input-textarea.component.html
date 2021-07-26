@@ -2,7 +2,8 @@
   <mat-form-field class="full-width">
     <textarea matInput [placeholder]="titulo" [name]="controlName" [formControlName]="controlName"> </textarea>
     <mat-error *ngIf="validacao.hasErrorValidar(formControl,'required')">Campo Obrigatório</mat-error>
-    <mat-error *ngIf="validacao.hasErrorValidar(formControl,'minlength')">Número mínimo de caracteres: 2</mat-error>
-    <mat-error *ngIf="validacao.hasErrorValidar(formControl,'maxlength')">Número mínimo de caracteres: 256</mat-error>
+    <mat-error *ngIf="validacao.hasErrorValidar(formControl,'minlength')">Número mínimo de caracteres: {{validacao.lenghtValidar(formControl, 'minlength')}}</mat-error>
+    <mat-error *ngIf="validacao.hasErrorValidar(formControl,'maxlength')">Número mínimo de caracteres: {{validacao.lenghtValidar(formControl, 'maxlength')}}</mat-error>
+
   </mat-form-field>
 </div>
