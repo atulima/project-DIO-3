@@ -24,6 +24,46 @@
       "urlIMDB": "",
       "genero": "Ficção científica",
       "id": 3
+    },
+    {
+      "titulo": "qw",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-20T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDB": "",
+      "genero": "Terror",
+      "id": 4
+    },
+    {
+      "titulo": "outro",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-13T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDB": "",
+      "genero": "Terror",
+      "id": 5
+    },
+    {
+      "titulo": "asd",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-19T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDB": "",
+      "genero": "Ficção científica",
+      "id": 6
+    },
+    {
+      "titulo": "asd",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-19T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDB": "",
+      "genero": "Terror",
+      "id": 7
     }
   ],
   "comments": [
