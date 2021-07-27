@@ -109,16 +109,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-12T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Terror",
-      "id": 12
     }
   ],
   "profile": {
